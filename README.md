@@ -1,5 +1,4 @@
 # Footprinting-and-Reconnaissance
-# Footprinting and Reconnaissance
 
 This repository contains a passive reconnaissance and information gathering report on the target website **testphp.vulnweb.com** as part of Module 3 in an Ethical Hacking course.
 
